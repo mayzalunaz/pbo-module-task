@@ -1,0 +1,15 @@
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.csproj.AssemblyReference.cache
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.AssemblyInfoInputs.cache
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.AssemblyInfo.cs
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.csproj.CoreCompileInputs.cache
+D:\Visual Studio\woofwoof\bin\Debug\net6.0\woofwoof.exe
+D:\Visual Studio\woofwoof\bin\Debug\net6.0\woofwoof.deps.json
+D:\Visual Studio\woofwoof\bin\Debug\net6.0\woofwoof.runtimeconfig.json
+D:\Visual Studio\woofwoof\bin\Debug\net6.0\woofwoof.dll
+D:\Visual Studio\woofwoof\bin\Debug\net6.0\woofwoof.pdb
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.dll
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\refint\woofwoof.dll
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.pdb
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\woofwoof.genruntimeconfig.cache
+D:\Visual Studio\woofwoof\obj\Debug\net6.0\ref\woofwoof.dll
